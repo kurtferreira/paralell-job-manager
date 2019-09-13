@@ -1,0 +1,4 @@
+*.dSYM/
+manager
+.vscode/
+.DS_Store
